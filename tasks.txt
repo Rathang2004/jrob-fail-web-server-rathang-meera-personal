@@ -1,0 +1,10 @@
+/*
+#1. Add dates in all the http responses//
+#2. Check with Alex and Angelo and whoever else, that the other request are made by curl right?
+#3. I guess remove the noContentResponse.html, because we don't want file, 
+#4. Check the put request
+#5. Double check all the request phtases and bodies and request and repsones
+#6. If everything from above is right, then start threading
+#7. If threading works properly, do the authentication
+#8. Clean up code and then right proper comments
+*/
